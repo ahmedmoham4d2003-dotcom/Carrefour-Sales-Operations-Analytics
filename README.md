@@ -166,18 +166,17 @@ Focuses on:
 
 ## Dashboard Preview
 
-### Executive Overview
+## Executive Overview
 
-(executive overview.png)
+![Executive Overview](Images/executive-overview.png)
 
-### Operational Insights
+## Operational Insights
 
-(operational-insights.png)
+![Operational Insights](Images/operational-insights.png)
 
-### Insights & Recommendations
+## Insights & Recommendations
 
-(insights-and-recommendations.png)
-
+![Insights & Recommendations](Images/insights-and-recommendations.png)
 ---
 
 ## Project Files
